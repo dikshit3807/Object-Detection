@@ -1,1 +1,1 @@
-# Object-Detection
+# Image Segmentation
